@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jveac.github.io/Gin/sitemap.Gin.gz
